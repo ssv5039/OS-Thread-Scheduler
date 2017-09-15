@@ -27,7 +27,7 @@ enum Policy {
 	FCFS,		//First Come First Serve
 	STRFwoP,	//Shortest Time Remaining First, without preemption
 	STRFwP,		//Shortest Time Remaining First, with preemption
-	PBS			//Priority Based Scheduling, with preemption
+	PBS		//Priority Based Scheduling, with preemption
 };
 
 /*The 'Scheduler' class is an abstract class which will be
