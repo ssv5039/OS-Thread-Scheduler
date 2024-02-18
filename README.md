@@ -11,4 +11,4 @@ Your team will create thread-based schedulers for an n-processor architecture, n
 
 ##Overview To-Do List
 - Implement the already skeletonized "myScheduler" class
-- Implement test-bench to self-verify the scehduler
+- Implement test-bench to self-verify the scheduler
